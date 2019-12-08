@@ -143,13 +143,13 @@
         <div class="PartialFooter-body">
             <ul class="PartialFooter-list">
                 <li class="PartialFooter-item">
-                    <a class="PartialFooter-item-link"  href='/privacy'>Farhan</a>
+                    <a class="PartialFooter-item-link"  href='#'>Farhan</a>
                 </li>
                 <li class="PartialFooter-item">
-                    <a class="PartialFooter-item-link"  href='/terms'>Genta</a>
+                    <a class="PartialFooter-item-link"  href='#'>Genta</a>
                 </li>
                 <li class="PartialFooter-item">
-                    <a class="PartialFooter-item-link"  href='/cookies'>Haekal</a>
+                    <a class="PartialFooter-item-link"  href='#'>Haekal</a>
                 </li>
             </ul>
         <div class="PartialFooter-copyright">© 2019 Pronto, LLC. All Rights Reserved</div>
