@@ -173,9 +173,7 @@ function getFromBlanja($keyword, $limit = 4){
 
         // Mengambil data gambar produk
         $gambar = $product->find('a.prod-anchor figure.product-image div img.lazy', 0)->{'data-original'};
-        preg_match("/(.*?)\?w=180/i", $gambar, $linkGambar);
-        $gambar = ($linkGambar[1]);
-
+        
         // Mengambil data link asli produk
         $linkAsli = $product->find('a.prod-anchor', 0)->href;
 

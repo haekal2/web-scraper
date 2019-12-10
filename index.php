@@ -123,7 +123,7 @@
                     <h6 class="card-title"><a href="<?= $produk["linkAsli"]; ?>" target="_blank"><?= $produk["nama"]; ?><?= $produk["nama"]; ?></a></h6>
                 </div>
                 <ul class="list-group list-group-flush">
-                    <li class="list-group-item"><h6><strong>Harga : </strong></h6><?= $barang["harga"]; ?></li>
+                    <li class="list-group-item"><h6><strong>Harga : </strong></h6><?= $produk["harga"]; ?></li>
                     <li class="list-group-item"><strong>Toko : </strong><?= $produk["toko"]; ?></li>
                 </ul>
                 <div class="card-body">
@@ -152,7 +152,7 @@
                     <a class="PartialFooter-item-link"  href='#'>Haekal</a>
                 </li>
             </ul>
-        <div class="PartialFooter-copyright">© 2019 Pronto, LLC. All Rights Reserved</div>
+        <div class="PartialFooter-copyright">© 2019 PilihDulu, Compagnie. All Rights Reserved.</div>
     </div>
 <!-- Footer -->
 </div>
